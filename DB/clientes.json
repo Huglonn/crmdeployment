@@ -1,3 +1,0 @@
-{"_id":{"$oid":"67cb722ba5c3a425a074e3d8"},"nombre":"Itzel","apellido":"Hernandez","empresa":"AirBnB","email":"correo3@correo.com","telefono":"1234567","__v":0}
-{"_id":{"$oid":"67e46b5bfe5c08a2599e171e"},"nombre":"Karen","apellido":"Perez","empresa":"MercadoLibre sa de cv","email":"karenperez@hotmail.com","telefono":"6181321456","__v":0}
-{"_id":{"$oid":"67e46fd15d9520c951e42e59"},"nombre":"Alejandra","apellido":"Martines","empresa":"ModaTelas","email":"alejandramtz@hotmail.com","telefono":"9283123383","__v":0}
