@@ -1,0 +1,7 @@
+{"_id":{"$oid":"67d89e2a379ff8ccbf9fd9ac"},"nombre":"Camisa VueJS","precio":40,"imagen":"3B72BudDY.jpeg","__v":0}
+{"_id":{"$oid":"67d89e9e379ff8ccbf9fd9ae"},"nombre":"Camisa Angular","precio":30,"imagen":"sjMiARyEj.jpeg","__v":0}
+{"_id":{"$oid":"67d89eae379ff8ccbf9fd9b0"},"nombre":"Camisa React","precio":35,"imagen":"4mJgWcXNC.jpeg","__v":0}
+{"_id":{"$oid":"67d89ecb379ff8ccbf9fd9b4"},"nombre":"CamisaNodeJS","precio":40,"imagen":"ZBa8hBlfF.jpeg","__v":0}
+{"_id":{"$oid":"67e5d63afca3f659dec2cc4a"},"nombre":"CamisHTML","precio":300,"imagen":"ZLcxHfoSX.jpeg","__v":0}
+{"_id":{"$oid":"67e71e60af06a8b50c176692"},"nombre":"Camisa Drupa","precio":10,"imagen":"IDikzghCN.jpeg","__v":0}
+{"_id":{"$oid":"67ec517285a97afe35ccad9d"},"nombre":"Camisa Node Premium","precio":45,"imagen":"_Ks1qL9IZ.jpeg","__v":0}
